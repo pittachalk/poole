@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: notes and findings 
+tagline: pittachalk
+#url: https://getpoole.com
 paginate: 10
 baseurl: ""
 permalink: pretty
